@@ -1,0 +1,42 @@
+h1{
+    font-family: 'The Nautigal', cursive;
+    /* text-align: center; */
+    /* width: 70%; */
+    text-align: center;
+    /* margin-left: 20%; */
+}
+
+.art{
+    /* margin-top: 50px; */
+    /* margin: auto; */
+    margin: 50px auto auto auto;
+}
+
+
+td{
+    height: 200px;
+    /* background-color: black; */
+    width: 100px;
+    border: 6px solid white;
+    
+}
+
+#col-1{
+    background-color: #FF6F59;
+}
+
+#col-2{
+    background-color: #254441;
+}
+
+#col-3{
+    background-color: #43AA8B;
+}
+
+#col-4{
+    background-color: #B2B09B;
+}
+
+#col-5{
+    background-color: #EF3054;
+}

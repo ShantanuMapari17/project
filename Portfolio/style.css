@@ -1,0 +1,15 @@
+.container-fluid{
+    margin: auto;
+    /* border: 2px solid black; */
+    text-align: center;
+}
+
+.bg-1{
+    background-image: url('/backgounds/pexels-stephan-seeber-1261728.jpg');
+    height: 720px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
